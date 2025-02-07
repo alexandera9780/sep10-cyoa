@@ -1,0 +1,1 @@
+hvhvtrni[../trip/die.md]
