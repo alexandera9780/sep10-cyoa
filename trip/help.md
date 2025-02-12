@@ -1,0 +1,4 @@
+## Someone came to help you.
+
+A stranger a street away heard your screams and came to help. He was a licenced doctor and gave you the medical attention you needed. He offers to walk you home.
+[Go home.](go_home.md)
