@@ -1,2 +1,2 @@
 # Choose Your Own Adventure
-Click [here](walking-home.md) to begin!
+Click [here](sep10-cyoa/walking-home.md) to begin!
