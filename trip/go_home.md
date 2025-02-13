@@ -1,3 +1,3 @@
-You made it home!!! You're safe... for now
+You made it home!!! 
 
-[Click to go back to start](../README.md)
+[You're a survivor](../investigate/survived)

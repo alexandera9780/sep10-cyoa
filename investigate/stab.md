@@ -1,2 +1,2 @@
 # Stabbed
-You used the weapon and went into hiding  from the murderer.
+You used the weapon and went into hiding  from the murderer. 
