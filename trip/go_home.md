@@ -1,3 +1,3 @@
-You made it home!!! 
+You made it home!!!
 
-[You're a survivor](../investigate/survived)
+[You're a survivor](../investigate/survived.md)
