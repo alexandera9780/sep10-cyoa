@@ -1,3 +1,1 @@
-[Your injuries cause you to die]
-
-)
+[Your injuries cause you to die](alone=dead.md)
