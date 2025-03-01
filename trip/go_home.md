@@ -1,3 +1,3 @@
-You continued walking and eventually made it home. 
+You continued going home and eventually made it back.
 
 [You're a survivor](../investigate/survived.md)
