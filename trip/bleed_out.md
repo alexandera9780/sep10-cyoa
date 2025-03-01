@@ -1,3 +1,5 @@
-## You injuries caused you to bleed out
+## Injuries
 
-[Your injuries cause you to die](alone=dead.md)
+You realize you have lost too much blood and physically can't walk anymore. 
+
+[Crawl](alone=dead.md)
