@@ -4,4 +4,4 @@ A stranger a street away heard your screams and came to help. He was a licenced 
 
 [Accept the offer](go_home.md)
 
-[Rejects the offer](alone=dead.md)
+[Reject the offer](alone=dead.md)
