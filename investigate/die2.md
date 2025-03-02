@@ -1,4 +1,4 @@
-## Bad Ending
+# Bad Ending
 
 You died. The murderer killed you from behind. 
 
