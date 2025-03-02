@@ -3,4 +3,4 @@ You ran and picked up the weapon on your way out. You soon run into a stranger. 
 
 [Accept.](../trip/go_home.md)
 
-[Reject.](catches_up.md)
+[Reject.](makes_a_move.md)
