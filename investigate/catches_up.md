@@ -3,4 +3,4 @@ As you continue your walk home, you notice that someone is following you again. 
 
 [Use weapon.](stab.md)
 
-[Run](makes_a_move.md)
+[Run](die2.md)
